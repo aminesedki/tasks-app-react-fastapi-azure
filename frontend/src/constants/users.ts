@@ -1,0 +1,1 @@
+export const USERS_BASE_PATH: string = "/api/v1/users"
