@@ -1021,3 +1021,30 @@ This structure is practical for local development, clear for maintenance, and st
 
 If you use this README in your repo, replace placeholders with your actual resource names only where appropriate, and keep all sensitive values out of Git.
 
+## 📷 Screenshots
+
+Click any image to open the full-size screenshot.
+
+### Authentification pages
+
+[![Register Page](screenshots/register-page.png)](screenshots/register-page.png)
+
+[![Login Page](screenshots/login-page.png)](screenshots/login-page.png)
+
+### Azure ressources
+
+[![All ressources](screenshots/az-all-ressources.png)](screenshots/az-all-ressources.png)
+
+[![Ressources Groups](screenshots/az-ressources-groups.png)](screenshots/az-ressources-groups.png)
+
+### Project pages
+
+[![Create project](screenshots/create-project.png)](screenshots/create-project.png)
+
+[![Create project modal](screenshots/create-project-modal.png)](screenshots/create-project-modal.png)
+
+### Task pages
+
+[![Create task](screenshots/create-task.png)](screenshots/create-task.png)
+
+[![Create task modal](screenshots/create-task-modal.png)](screenshots/create-task-modal.png)
